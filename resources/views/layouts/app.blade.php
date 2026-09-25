@@ -73,7 +73,7 @@
 
     
     .btn-primary {
-        background-color: #E2B4BD !important;
+        background-color: #b4c6e2 !important;
         border-color: #E2B4BD !important;
         color: #4A4A4A !important;
     }
